@@ -10,4 +10,4 @@ En general, estoy muy satisfecho con el resultado de mi página web y creo que e
 
 Dino Ferré 👽 - Link del portfolio 👇 
 
-https://dinoferre.github.io/Angular-Porfolio-Dino-Ferre/
+https://dinoferre.github.io/Portfolio-Dino-2024/
